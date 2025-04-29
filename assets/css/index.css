@@ -136,3 +136,13 @@ header{
     color: white;
     padding: 7px 40px;
 }
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.imagen5{
+    width: 15%;
+    margin-bottom: 25px;
+}
